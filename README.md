@@ -1,6 +1,6 @@
 # Parsovátko na maily z AirBank
 
-> Zatím se jedná ao nefunkční prototyp!
+Zatím se jedná o nefunkční prototyp!
 
 ## Nastavení
 
