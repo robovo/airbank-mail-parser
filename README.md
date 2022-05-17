@@ -1,5 +1,7 @@
 # Parsovátko na maily z AirBank
 
+> Zatím se jedná ao nefunkční prototyp!
+
 ## Nastavení
 
 1. Nastavte si v internetovém bankovnictví AirBank posílání e-mailů o změnách na účtu
